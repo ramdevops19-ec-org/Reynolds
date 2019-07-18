@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+UAT branch 1
+UAT branch
+Stash Command Test
+>>>>>>> d8900b2... update
 master branch
 Tested
 Update 
